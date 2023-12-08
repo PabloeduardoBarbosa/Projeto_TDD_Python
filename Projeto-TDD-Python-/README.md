@@ -10,7 +10,7 @@ O objetivo principal deste projeto é aprimorar uma aplicação de biblioteca ex
 No ambiente Linux:
 
 ```console
-git clone https://github.com/valdirGarcia/Django_biblioteca.git
+git clone  https://github.com/PabloeduardoBarbosa/Projeto_TDD_Python.git
 cd django_biblioteca/
 virtualenv -p python3 venv
 source venv/bin/activate
