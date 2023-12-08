@@ -22,7 +22,7 @@ python manage.py runserver
 No ambiente Windows:
 
 ```console
-git clone https://github.com/pabloEduardobarbosa/Django_biblioteca.git
+git clone https://github.com/PabloeduardoBarbosa/Projeto_TDD_Python.git
 cd django_biblioteca/
 virtualenv venv
 cd venv
